@@ -1,1 +1,2 @@
 C:\Users\Michel\Documents\GitHub\Projeto\Projeto\RemoteForce_Proj\RFServer\bin\Debug\RFServer.exe.config
+C:\Users\Michel\Documents\GitHub\Projeto\Codigo\RemoteForce\RFServer\bin\Debug\RFServer.exe.config
